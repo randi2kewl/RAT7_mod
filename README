@@ -1,0 +1,3 @@
+This is just a simple bash script to create a mod file to alter the way that R.A.T.7 mice are handled. Gives ability to use buttons 1-12 then the 9 extra buttons are set to 0.
+
+TODO: Allow for other R.A.T. mice by using the 'id' from "xinput -list" in the "xinput get-button-map <id>" to get the number of known and unknown buttons.
